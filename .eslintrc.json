@@ -19,7 +19,8 @@
   "extends": [
     "eslint:recommended",
     "plugin:jest/recommended",
-    "plugin:prettier/recommended"
+    "plugin:prettier/recommended",
+    "prettier"
   ],
   "parserOptions": {
     "ecmaVersion": 6,
