@@ -94,6 +94,9 @@
       "git add"
     ]
   },
+  "prettier": {
+    "semi": "true"
+  },
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx}"
